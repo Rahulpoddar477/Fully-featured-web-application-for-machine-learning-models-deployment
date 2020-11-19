@@ -1,0 +1,11 @@
+Flask
+pymongo
+flask-wtf
+flask-bcrypt
+flask-login
+pillow
+flask-mail
+numpy
+pandas
+scikit-learn
+tensorflow
